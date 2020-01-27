@@ -31,3 +31,6 @@ function makeInt(n){
   c = parseInt(n, 10)
   return c
 }
+function preserveDecimal(n){
+  
+}
