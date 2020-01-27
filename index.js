@@ -7,7 +7,7 @@ function add(a,b){
 
 function subtract(a,b){
  c = a - b 
- return class
+ return c
 }
 
 function multiply(a,b){
