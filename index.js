@@ -27,7 +27,3 @@ function dec(n){
   n--
   return n
 }
-function makeInt(n){
-  c = parseInt(n)
-  return c
-}
